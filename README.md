@@ -1,3 +1,6 @@
 # codility_codingtest
 
-codingtest practice
+## codingtest practice
+
+### 24.05.28 Iterations
+https://app.codility.com/programmers/trainings/9/binary_gap/

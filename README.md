@@ -17,9 +17,11 @@ https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem
 
 https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
 
-### 24.06.05~09 Counting Elements
+### 24.06.05~11 Counting Elements
 https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/
 
 https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/
 
 https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/
+
+https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/

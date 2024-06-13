@@ -30,3 +30,5 @@ https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer
 https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/
 
 https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/
+
+https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/

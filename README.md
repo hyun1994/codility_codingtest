@@ -26,9 +26,11 @@ https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/
 
 https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/
 
-### 24.06.12~13 Prefix Sums
+### 24.06.12~18 Prefix Sums
 https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/
 
 https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/
 
 https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/
+
+https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/

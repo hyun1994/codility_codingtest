@@ -35,11 +35,12 @@ https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/
 
 https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
 
-### 24.06.18~27 Sorting
+### 24.06.18~24 Sorting
 https://app.codility.com/programmers/lessons/6-sorting/distinct/
 
 https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/
 
+### 24.06.26~28 Stacks and Queues
 https://app.codility.com/programmers/lessons/6-sorting/triangle/
 
 https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/

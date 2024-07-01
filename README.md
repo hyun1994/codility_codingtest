@@ -40,9 +40,11 @@ https://app.codility.com/programmers/lessons/6-sorting/distinct/
 
 https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/
 
-### 24.06.26~28 Stacks and Queues
+### 24.06.26~07.02 Stacks and Queues
 https://app.codility.com/programmers/lessons/6-sorting/triangle/
 
 https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/
 
 https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/
+
+https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/

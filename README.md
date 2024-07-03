@@ -49,5 +49,7 @@ https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/
 
 https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/
 
-### 24.07.03 Leader
+### 24.07.03~04 Leader
 https://app.codility.com/programmers/lessons/8-leader/
+
+https://app.codility.com/programmers/lessons/8-leader/equi_leader/

@@ -53,3 +53,6 @@ https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/
 https://app.codility.com/programmers/lessons/8-leader/
 
 https://app.codility.com/programmers/lessons/8-leader/equi_leader/
+
+### 24.07.05 Maximum slice problem
+https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/

@@ -54,5 +54,7 @@ https://app.codility.com/programmers/lessons/8-leader/
 
 https://app.codility.com/programmers/lessons/8-leader/equi_leader/
 
-### 24.07.05 Maximum slice problem
+### 24.07.05~09 Maximum slice problem
 https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
+
+https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/

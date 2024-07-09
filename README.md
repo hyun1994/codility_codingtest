@@ -58,3 +58,6 @@ https://app.codility.com/programmers/lessons/8-leader/equi_leader/
 https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
 
 https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/
+
+### 24.07.10 Prime and Composite Numbers
+https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/

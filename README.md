@@ -61,3 +61,5 @@ https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_s
 
 ### 24.07.10 Prime and Composite Numbers
 https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/
+
+https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/

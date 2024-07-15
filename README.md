@@ -63,3 +63,6 @@ https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_s
 https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/
 
 https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/
+
+### 24.07.16 Caterpillar method
+https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/

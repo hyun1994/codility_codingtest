@@ -70,3 +70,6 @@ https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/
 https://app.codility.com/programmers/lessons/15-caterpillar_method/count_distinct_slices/
 
 https://app.codility.com/programmers/lessons/15-caterpillar_method/count_triangles/
+
+### 24.07.23 Greedy Algorithms
+https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/

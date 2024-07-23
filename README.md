@@ -73,3 +73,5 @@ https://app.codility.com/programmers/lessons/15-caterpillar_method/count_triangl
 
 ### 24.07.23 Greedy Algorithms
 https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/
+
+https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/

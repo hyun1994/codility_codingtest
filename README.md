@@ -77,3 +77,6 @@ https://app.codility.com/programmers/lessons/15-caterpillar_method/count_triangl
 https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/
 
 https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/
+
+### 24.07.30 Binary search algorithm
+https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/
